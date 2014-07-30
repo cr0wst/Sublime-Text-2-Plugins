@@ -1,0 +1,30 @@
+ThePB.in PasteBin Plugin by Steve: steve]at[swiftirc[net]
+Version 1.0 ALPHA
+Copyright (C) 2014 Steve C
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+INFORMATION
+This plugin is intended to submit pastes to http://thepb.in with an assigned keypress.  It
+is currently a WIP and will probably break.
+
+TODO
+* Add a way to paste selected text as well as just the whole file (current behaviour).
+* Add python 3.x support (untested, only tested with 2.x)
+* Drink more coffee
+
+INSTALLATION
+* Place folder inside the Packages folder inside your installation directory (windows users AppData\Roaming\Sublime Text 2\Packages.
+* Edit conf.py with your API Key
+* If you would like to change the keybinding (default is ctrl+d) this can be done in the Default.sublime-keymap file.

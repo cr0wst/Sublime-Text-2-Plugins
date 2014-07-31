@@ -42,8 +42,6 @@ IS_PRIV = '0'
 # Edit this if you would like to change the description
 PASTE_DESC = 'ThePB PasteBin Plugin http://thepb.in/tools/'
 
-# TODO: Add support for private/public pastes
-
 ###################################################
 # Other Settings
 # Editing these could cause weird things to happen!
@@ -52,7 +50,6 @@ PASTE_MODE = 'paste'
 PASTE_URL = 'http://thepb.in/api/'
 
 # Headers to Send
-# TODO: Shrink this down a ton!
 URL_HEADERS = {'User-Agent': 'Sublime Text/2.0','Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8','Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3','Accept-Encoding': 'none','Accept-Language': 'en-US,en;q=0.8','Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded'}
 
 

@@ -26,6 +26,7 @@ TODO
 
 INSTALLATION
 * Place folder inside the Packages folder inside your installation directory (windows users AppData\Roaming\Sublime Text 2\Packages.
+* * Alternatively you can place the .sublime-package file in your Installed Packages folder.
 * Edit ThePB.sublime-settings with your API Key
 * * You can get your API Key at http://thepb.in/p/auth
 * If you would like to change the keybinding (default is ctrl+d) this can be done in the Default.sublime-keymap file.

@@ -26,5 +26,13 @@ TODO
 
 INSTALLATION
 * Place folder inside the Packages folder inside your installation directory (windows users AppData\Roaming\Sublime Text 2\Packages.
-* Edit conf.py with your API Key
+* Edit ThePB.sublime-settings with your API Key
+* * You can get your API Key at http://thepb.in/p/auth
 * If you would like to change the keybinding (default is ctrl+d) this can be done in the Default.sublime-keymap file.
+
+SETTINGS
+There are a few optional settings in ThePB.sublime-settings:
+* LOCK_PASS contains a password to lock all pastes sent using this plugin
+* IS_PRIV when set to 1 sends your pastes as private (Caution: All paste information is sent via plain-text)
+* PASTE_DESC gives a default description to your paste
+* PASTE_MODE and PASTE_URL may cause undesireable behaviour if edited.

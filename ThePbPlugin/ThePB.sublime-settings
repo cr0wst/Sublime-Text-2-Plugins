@@ -1,0 +1,8 @@
+{
+	"API_KEY": "YOUR-API-KEY-HERE", 
+	"LOCK_PASS": "",
+	"IS_PRIV": "0",
+	"PASTE_DESC": "ThePB PasteBin Plugin http://thepb.in/tools/",
+	"PASTE_MODE": "paste",
+	"PASTE_URL": "http://thepb.in/api/"
+}
